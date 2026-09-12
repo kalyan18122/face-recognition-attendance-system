@@ -1,6 +1,0 @@
-opencv-python
-deepface
-pandas
-numpy
-tensorflow
-tf-keras
